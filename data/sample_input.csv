@@ -1,0 +1,2 @@
+Product type,SKU,Price,Availability,Number of products sold,Revenue generated,Customer demographics,Stock levels,Lead times,Order quantities,Shipping times,Shipping carriers,Shipping costs,Supplier name,Location,Lead time,Production volumes,Manufacturing lead time,Manufacturing costs,Inspection results,Defect rates,Transportation modes,Routes,Costs
+skincare,SKU101,25.5,30,100,2550.0,Female,200,15,50,3,Carrier A,12.5,SupplierA,Delhi,15,500,20,8.5,Passed,0.02,Air,RouteA,120.5
